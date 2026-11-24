@@ -1,0 +1,8 @@
+enrollment_id,student_name,phone,course_name,batch_name,total_fee,total_paid,pending_fee
+2,"Rahul Das",9830011102,Java,"Batch B",12000.00,6000.00,6000.00
+4,"Arjun Mitra",9830011104,"Web Development","Batch D",18000.00,10000.00,8000.00
+6,"Imran Sheikh",9830011106,"Web Development","Batch D",18000.00,9000.00,9000.00
+7,"Debjani Paul",9830011107,"Generative AI","Batch E",20000.00,8000.00,12000.00
+8,"Rohit Banerjee",9830011108,Java,"Batch B",12000.00,6000.00,6000.00
+9,"Sourav Bose",9830011109,Python,"Batch F",10000.00,5000.00,5000.00
+10,"Megha Chatterjee",9830011110,"Web Development","Batch D",18000.00,8000.00,10000.00
